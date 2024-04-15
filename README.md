@@ -6,11 +6,11 @@ Este é um jogo simples baseado em texto desenvolvido em C# usando programação
 
 Para iniciar o jogo:
 
-1 - Clone o repositório em sua máquina.
-2 - Abra o projeto em sua IDE preferida compativél com C#.
-3 - Execute o projeto através do terminal com "dotnet run"
-4 - Siga as instruções mostradas no console.
-5 - Complete os objetivos da dungeon e chegue até a ultima sala para concluir o jogo.
+1.   Clone o repositório em sua máquina.
+2.   Abra o projeto em sua IDE preferida compativél com C#.
+3.   Execute o projeto através do terminal com "dotnet run"
+4.   Siga as instruções mostradas no console.
+5.   Complete os objetivos da dungeon e chegue até a ultima sala para concluir o jogo.
 
 ## Funcionalidades ⚔️
 
